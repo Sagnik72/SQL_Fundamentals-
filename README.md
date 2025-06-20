@@ -1,2 +1,2 @@
 # SQL_Fundamentals-
-SQL I run during my learning 
+SQL query I run during my learning 
